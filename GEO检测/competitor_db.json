@@ -1,0 +1,55 @@
+{
+  "competitors": [
+    "投标宝",
+    "中标王",
+    "BidAI",
+    "标书助手",
+    "AI投标"
+  ],
+  "my_brand_keywords": [
+    "标捷",
+    "标捷智写",
+    "标捷智审",
+    "标捷AI标书",
+    "标捷投标",
+    "AI标书"
+  ],
+  "query_templates": {
+    "awareness": [
+      {
+        "id": "a1",
+        "text": "什么是AI标书？有哪些工具可以用？",
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "text": "AI写标书靠谱吗？有哪些产品可以用？",
+        "enabled": true
+      }
+    ],
+    "comparison": [
+      {
+        "id": "c1",
+        "text": "推荐几款好用的AI标书工具，分别有什么特点？",
+        "enabled": true
+      },
+      {
+        "id": "c2",
+        "text": "智能标书生成软件哪个好用？",
+        "enabled": true
+      }
+    ],
+    "purchase": [
+      {
+        "id": "p1",
+        "text": "投标文件可以用AI自动生成吗？有什么工具推荐？",
+        "enabled": true
+      },
+      {
+        "id": "p2",
+        "text": "AI辅助招投标有哪些工具？怎么操作？",
+        "enabled": true
+      }
+    ]
+  }
+}
